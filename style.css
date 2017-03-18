@@ -10,7 +10,6 @@ html, body {
 
 body {
 	align-items: center;
-  background-color: #FFF;
 	display: flex;
 	font-family: 'Raleway', sans-serif;
 	flex-direction: column;
